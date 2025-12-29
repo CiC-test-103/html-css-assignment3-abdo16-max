@@ -158,4 +158,14 @@ text-align: left;
   padding: 1rem 0;
 
  }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.rights {
+  text-align: center;
+  font-size: 0.85rem;
+  color: white;
+  margin-top: 2rem;
+  background-color: black;
+  border-radius: 10px;
+}
